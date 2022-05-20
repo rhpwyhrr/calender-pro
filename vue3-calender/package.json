@@ -1,0 +1,15 @@
+{
+  "name": "@megi_ruan/mycalender",
+  "version": "1.0.0",
+  "description": "日历插件",
+  "main": "vue3-calender.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rhpwyhrr/calender-pro.git"
+  },
+  "author": "megi.ruan",
+  "license": "ISC"
+}
